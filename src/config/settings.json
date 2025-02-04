@@ -1,0 +1,40 @@
+{
+    "safety": {
+        "protected_directories": [
+            "Windows/System32",
+            "Program Files"
+        ],
+        "protected_extensions": [
+            ".exe",
+            ".dll",
+            ".sys"
+        ]
+    },
+    "cleanup": {
+        "min_file_age_days": 0,
+        "min_size_mb": 0.01,
+        "target_extensions": [
+            ".tmp",
+            ".temp",
+            ".cache",
+            "~*",
+            ".log",
+            ".chk",
+            ".old",
+            ".bak"
+        ]
+    },
+    "locations": {
+        "temp_cleanup": true,
+        "download_cleanup": false,
+        "custom_folders": [
+            "AppData/Local/Temp",
+            "AppData/Local/Microsoft/Windows/Temporary Internet Files",
+            "AppData/Local/Microsoft/Windows/INetCache"
+        ]
+    },
+    "recycle_bin": {
+        "use_recycle_bin": true,
+        "cleanup_recycle_bin": false
+    }
+}

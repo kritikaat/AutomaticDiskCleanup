@@ -1,0 +1,992 @@
+2025-02-04 15:26:16 - INFO - Running in DRY RUN mode - No files will be deleted
+2025-02-04 15:26:16 - INFO - Starting cleanup process
+2025-02-04 15:26:16 - INFO - Cleaning temp directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 15:26:16 - INFO - Cleaning temp directory: C:\WINDOWS\Temp
+2025-02-04 15:26:16 - INFO - Cleanup process completed
+2025-02-04 15:30:37 - INFO - ==================================================
+2025-02-04 15:30:37 - INFO - STARTING ACTUAL CLEANUP
+2025-02-04 15:30:37 - INFO - ==================================================
+2025-02-04 15:30:37 - INFO - Starting cleanup process
+2025-02-04 15:30:37 - INFO - Current settings:
+2025-02-04 15:30:37 - INFO - - Minimum file age: 30 days
+2025-02-04 15:30:37 - INFO - - Minimum file size: 1 MB
+2025-02-04 15:30:37 - INFO - - Target extensions: .tmp, .log, .cache, .temp
+2025-02-04 15:30:37 - INFO - 
+Scanning directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\004b98c8-3244-41ee-9ca7-19e62d0c73a1.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\00a4bd74-bdad-4594-82d9-0d607874a587.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\17356cc7-bbc7-4d28-8645-038085a8fd8d.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\18d58858-0630-4de6-8aaa-3b57208c5c64.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\217cc23a-43c7-4687-87e3-8929a9de898b.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\40aa4c54-d979-4bb4-be26-54803f8ff5dd.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\43b826e3-9e39-4ee1-ad8d-29791eae8e2b.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\55bff456-4556-4d76-8943-c2fed02819dc.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6a8ba126-1633-45fd-8e40-c76a8edf39e3.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6be2dc7d-fead-43c6-a22a-7fbfe41ffd11.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6e5fa6cc-ba82-43c5-aac8-41e6341f7f33.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6e6903d5-445d-42f0-a87d-afb9aee24360.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76a11eb7-c5bb-4641-a0d5-5dd33029b893.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76b1993e-de4a-434e-905d-7e8b5dcb06cd.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\9529a895-0223-484b-9735-73dc6cda3268.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\c69b19c4-9513-4d12-81f1-199d7c3b38a3.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\d4af4983-d706-4af4-8349-8c2d7cb180a5.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\d635ddca-6790-426a-b55c-52b6925be39a.tmp
+2025-02-04 15:30:37 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\e9fff45a-a95d-4013-a04a-8d6ef30022e1.tmp
+2025-02-04 15:30:37 - WARNING - Protected directory: C:\Users\kruti\AppData\Local\Temp\SmartScreen\RemoteData\windowsSettings
+2025-02-04 15:30:37 - WARNING - Protected directory: C:\Users\kruti\AppData\Local\Temp\SmartScreen\RemoteData\windowsSettings_1.0-7e3544113374bc2769af5f67e125ab81de1b4b64c07fe68e2a7bc03646c85dfc
+2025-02-04 15:30:41 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:30:41 - INFO - 
+Scanning directory: C:\WINDOWS\Temp
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\bb3a785178f443fda931098a5a9a306b.db.ses
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\FXSAPIDebugLogFile.txt
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\FXSTIFFDebugLogFile.txt
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0947.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952a.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952b.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0958.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1003.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1008.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1018.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1107.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1142.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1520.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1533.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1549.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1600.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1642.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2059.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2117.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2226.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2230.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2259.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1033.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1039.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1203.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1422.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1512.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1646.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1833.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1955.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2020.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2212.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2306.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2323.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2330.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0851.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0851a.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0902.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1039.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1056.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1119.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1130.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1243.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0641.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0646.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0647.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0647a.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0754.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0957.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-1603.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-0911.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1010.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1346.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1419.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1452.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1456.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1457.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0937.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0942.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0943.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0943a.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1019.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1101.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1109.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1126.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1425.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1501.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\MpSigStub.log
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\wct2FA4.tmp
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\wct72F9.tmp
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\wct80DB.tmp
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\wctC0C7.tmp
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\y.txt
+2025-02-04 15:30:41 - WARNING - Protected directory: C:\WINDOWS\Temp\{E93F0597-8B33-4604-ABDE-8495901F8885} - OProcSessId.dat
+2025-02-04 15:30:41 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:30:41 - INFO - 
+Cleanup process completed
+2025-02-04 15:30:41 - INFO - ==================================================
+2025-02-04 15:32:54 - INFO - ==================================================
+2025-02-04 15:32:54 - INFO - STARTING ACTUAL CLEANUP
+2025-02-04 15:32:54 - INFO - ==================================================
+2025-02-04 15:32:54 - INFO - Starting cleanup process
+2025-02-04 15:32:54 - INFO - Current settings:
+2025-02-04 15:32:54 - INFO - - Minimum file age: 60 days
+2025-02-04 15:32:54 - INFO - - Minimum file size: 10 MB
+2025-02-04 15:32:54 - INFO - - Target extensions: .tmp, .temp
+2025-02-04 15:32:54 - INFO - 
+Scanning directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\004b98c8-3244-41ee-9ca7-19e62d0c73a1.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\00a4bd74-bdad-4594-82d9-0d607874a587.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\17356cc7-bbc7-4d28-8645-038085a8fd8d.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\18d58858-0630-4de6-8aaa-3b57208c5c64.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\217cc23a-43c7-4687-87e3-8929a9de898b.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\40aa4c54-d979-4bb4-be26-54803f8ff5dd.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\43b826e3-9e39-4ee1-ad8d-29791eae8e2b.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\55bff456-4556-4d76-8943-c2fed02819dc.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6a8ba126-1633-45fd-8e40-c76a8edf39e3.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6be2dc7d-fead-43c6-a22a-7fbfe41ffd11.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6e5fa6cc-ba82-43c5-aac8-41e6341f7f33.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6e6903d5-445d-42f0-a87d-afb9aee24360.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76a11eb7-c5bb-4641-a0d5-5dd33029b893.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76b1993e-de4a-434e-905d-7e8b5dcb06cd.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\9529a895-0223-484b-9735-73dc6cda3268.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\c69b19c4-9513-4d12-81f1-199d7c3b38a3.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\d4af4983-d706-4af4-8349-8c2d7cb180a5.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\d635ddca-6790-426a-b55c-52b6925be39a.tmp
+2025-02-04 15:32:54 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\e9fff45a-a95d-4013-a04a-8d6ef30022e1.tmp
+2025-02-04 15:32:54 - WARNING - Protected directory: C:\Users\kruti\AppData\Local\Temp\SmartScreen\RemoteData\windowsSettings
+2025-02-04 15:32:54 - WARNING - Protected directory: C:\Users\kruti\AppData\Local\Temp\SmartScreen\RemoteData\windowsSettings_1.0-7e3544113374bc2769af5f67e125ab81de1b4b64c07fe68e2a7bc03646c85dfc
+2025-02-04 15:32:56 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:32:56 - INFO - 
+Scanning directory: C:\WINDOWS\Temp
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\bb3a785178f443fda931098a5a9a306b.db.ses
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\FXSAPIDebugLogFile.txt
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\FXSTIFFDebugLogFile.txt
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0947.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952a.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952b.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0958.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1003.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1008.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1018.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1107.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1142.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1520.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1533.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1549.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1600.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1642.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2059.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2117.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2226.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2230.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2259.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1033.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1039.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1203.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1422.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1512.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1646.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1833.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1955.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2020.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2212.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2306.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2323.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2330.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0851.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0851a.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0902.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1039.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1056.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1119.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1130.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1243.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0641.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0646.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0647.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0647a.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0754.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0957.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-1603.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-0911.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1010.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1346.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1419.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1452.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1456.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1457.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0937.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0942.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0943.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0943a.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1019.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1101.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1109.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1126.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1425.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1501.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\MpSigStub.log
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\wct2FA4.tmp
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\wct72F9.tmp
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\wct80DB.tmp
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\wctC0C7.tmp
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\y.txt
+2025-02-04 15:32:56 - WARNING - Protected directory: C:\WINDOWS\Temp\{E93F0597-8B33-4604-ABDE-8495901F8885} - OProcSessId.dat
+2025-02-04 15:32:56 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:32:56 - INFO - 
+Cleanup process completed
+2025-02-04 15:32:56 - INFO - ==================================================
+2025-02-04 15:38:38 - INFO - ==================================================
+2025-02-04 15:38:38 - INFO - STARTING ACTUAL CLEANUP
+2025-02-04 15:38:38 - INFO - ==================================================
+2025-02-04 15:38:38 - INFO - Starting cleanup process
+2025-02-04 15:38:38 - INFO - Current settings:
+2025-02-04 15:38:38 - INFO - - Minimum file age: 30 days
+2025-02-04 15:38:38 - INFO - - Minimum file size: 1 MB
+2025-02-04 15:38:38 - INFO - - Target extensions: .tmp, .temp, .cache
+2025-02-04 15:38:38 - INFO - 
+Scanning directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\004b98c8-3244-41ee-9ca7-19e62d0c73a1.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\00a4bd74-bdad-4594-82d9-0d607874a587.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\17356cc7-bbc7-4d28-8645-038085a8fd8d.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\18d58858-0630-4de6-8aaa-3b57208c5c64.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\217cc23a-43c7-4687-87e3-8929a9de898b.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\40aa4c54-d979-4bb4-be26-54803f8ff5dd.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\43b826e3-9e39-4ee1-ad8d-29791eae8e2b.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\55bff456-4556-4d76-8943-c2fed02819dc.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6a8ba126-1633-45fd-8e40-c76a8edf39e3.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6be2dc7d-fead-43c6-a22a-7fbfe41ffd11.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6e5fa6cc-ba82-43c5-aac8-41e6341f7f33.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6e6903d5-445d-42f0-a87d-afb9aee24360.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76a11eb7-c5bb-4641-a0d5-5dd33029b893.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76b1993e-de4a-434e-905d-7e8b5dcb06cd.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\9529a895-0223-484b-9735-73dc6cda3268.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\c69b19c4-9513-4d12-81f1-199d7c3b38a3.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\d4af4983-d706-4af4-8349-8c2d7cb180a5.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\d635ddca-6790-426a-b55c-52b6925be39a.tmp
+2025-02-04 15:38:38 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\e9fff45a-a95d-4013-a04a-8d6ef30022e1.tmp
+2025-02-04 15:38:38 - WARNING - Protected directory: C:\Users\kruti\AppData\Local\Temp\SmartScreen\RemoteData\windowsSettings
+2025-02-04 15:38:38 - WARNING - Protected directory: C:\Users\kruti\AppData\Local\Temp\SmartScreen\RemoteData\windowsSettings_1.0-7e3544113374bc2769af5f67e125ab81de1b4b64c07fe68e2a7bc03646c85dfc
+2025-02-04 15:38:40 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:38:40 - INFO - 
+Scanning directory: C:\WINDOWS\Temp
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\bb3a785178f443fda931098a5a9a306b.db.ses
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\FXSAPIDebugLogFile.txt
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\FXSTIFFDebugLogFile.txt
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0947.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952a.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952b.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0958.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1003.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1008.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1018.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1107.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1142.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1520.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1533.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1549.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1600.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1642.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2059.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2117.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2226.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2230.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2259.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1033.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1039.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1203.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1422.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1512.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1646.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1833.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1955.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2020.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2212.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2306.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2323.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2330.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0851.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0851a.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0902.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1039.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1056.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1119.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1130.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1243.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0641.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0646.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0647.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0647a.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0754.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0957.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-1603.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-0911.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1010.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1346.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1419.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1452.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1456.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1457.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0937.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0942.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0943.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0943a.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1019.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1101.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1109.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1126.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1425.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1501.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\MpSigStub.log
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\wct2FA4.tmp
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\wct72F9.tmp
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\wct80DB.tmp
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\wctC0C7.tmp
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\y.txt
+2025-02-04 15:38:40 - WARNING - Protected directory: C:\WINDOWS\Temp\{E93F0597-8B33-4604-ABDE-8495901F8885} - OProcSessId.dat
+2025-02-04 15:38:40 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:38:40 - INFO - 
+Cleanup process completed
+2025-02-04 15:38:40 - INFO - ==================================================
+2025-02-04 15:41:56 - INFO - ==================================================
+2025-02-04 15:41:56 - INFO - STARTING ACTUAL CLEANUP
+2025-02-04 15:41:56 - INFO - ==================================================
+2025-02-04 15:41:56 - INFO - Starting cleanup process
+2025-02-04 15:41:56 - INFO - Current settings:
+2025-02-04 15:41:56 - INFO - - Minimum file age: 7 days
+2025-02-04 15:41:56 - INFO - - Minimum file size: 1 MB
+2025-02-04 15:41:56 - INFO - - Target extensions: .tmp, .temp
+2025-02-04 15:41:56 - INFO - 
+Scanning directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\004b98c8-3244-41ee-9ca7-19e62d0c73a1.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\00a4bd74-bdad-4594-82d9-0d607874a587.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\17356cc7-bbc7-4d28-8645-038085a8fd8d.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\18d58858-0630-4de6-8aaa-3b57208c5c64.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\217cc23a-43c7-4687-87e3-8929a9de898b.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\40aa4c54-d979-4bb4-be26-54803f8ff5dd.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\43b826e3-9e39-4ee1-ad8d-29791eae8e2b.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\55bff456-4556-4d76-8943-c2fed02819dc.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6a8ba126-1633-45fd-8e40-c76a8edf39e3.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6be2dc7d-fead-43c6-a22a-7fbfe41ffd11.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6e5fa6cc-ba82-43c5-aac8-41e6341f7f33.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6e6903d5-445d-42f0-a87d-afb9aee24360.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76a11eb7-c5bb-4641-a0d5-5dd33029b893.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76b1993e-de4a-434e-905d-7e8b5dcb06cd.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\9529a895-0223-484b-9735-73dc6cda3268.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\c69b19c4-9513-4d12-81f1-199d7c3b38a3.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\d4af4983-d706-4af4-8349-8c2d7cb180a5.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\d635ddca-6790-426a-b55c-52b6925be39a.tmp
+2025-02-04 15:41:56 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\e9fff45a-a95d-4013-a04a-8d6ef30022e1.tmp
+2025-02-04 15:41:59 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:41:59 - INFO - 
+Scanning directory: C:\WINDOWS\Temp
+2025-02-04 15:41:59 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:41:59 - INFO - 
+Cleanup process completed
+2025-02-04 15:41:59 - INFO - ==================================================
+2025-02-04 15:43:04 - INFO - ==================================================
+2025-02-04 15:43:04 - INFO - STARTING ACTUAL CLEANUP
+2025-02-04 15:43:04 - INFO - ==================================================
+2025-02-04 15:43:04 - INFO - Starting cleanup process
+2025-02-04 15:43:04 - INFO - Current settings:
+2025-02-04 15:43:04 - INFO - - Minimum file age: 7 days
+2025-02-04 15:43:04 - INFO - - Minimum file size: 1 MB
+2025-02-04 15:43:04 - INFO - - Target extensions: .tmp, .temp
+2025-02-04 15:43:04 - INFO - 
+Scanning directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\18d58858-0630-4de6-8aaa-3b57208c5c64.tmp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\217cc23a-43c7-4687-87e3-8929a9de898b.tmp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\43b826e3-9e39-4ee1-ad8d-29791eae8e2b.tmp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\55bff456-4556-4d76-8943-c2fed02819dc.tmp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\5ff3bf5d-1d61-4fcc-8a66-be122000bd1c.tmp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6a8ba126-1633-45fd-8e40-c76a8edf39e3.tmp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\6e5fa6cc-ba82-43c5-aac8-41e6341f7f33.tmp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76a11eb7-c5bb-4641-a0d5-5dd33029b893.tmp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76b1993e-de4a-434e-905d-7e8b5dcb06cd.tmp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\c69b19c4-9513-4d12-81f1-199d7c3b38a3.tmp
+2025-02-04 15:43:04 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\d4af4983-d706-4af4-8349-8c2d7cb180a5.tmp
+2025-02-04 15:43:07 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:43:07 - INFO - 
+Scanning directory: C:\WINDOWS\Temp
+2025-02-04 15:43:07 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:43:07 - INFO - 
+Cleanup process completed
+2025-02-04 15:43:07 - INFO - ==================================================
+2025-02-04 15:43:48 - INFO - ==================================================
+2025-02-04 15:43:48 - INFO - STARTING ACTUAL CLEANUP
+2025-02-04 15:43:48 - INFO - ==================================================
+2025-02-04 15:43:48 - INFO - Starting cleanup process
+2025-02-04 15:43:48 - INFO - Current settings:
+2025-02-04 15:43:48 - INFO - - Minimum file age: 1 days
+2025-02-04 15:43:48 - INFO - - Minimum file size: 0.1 MB
+2025-02-04 15:43:48 - INFO - - Target extensions: .tmp, .temp, ~*
+2025-02-04 15:43:48 - INFO - 
+Scanning directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 15:43:48 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\18d58858-0630-4de6-8aaa-3b57208c5c64.tmp
+2025-02-04 15:43:48 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\217cc23a-43c7-4687-87e3-8929a9de898b.tmp
+2025-02-04 15:43:48 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\43b826e3-9e39-4ee1-ad8d-29791eae8e2b.tmp
+2025-02-04 15:43:48 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\5ff3bf5d-1d61-4fcc-8a66-be122000bd1c.tmp
+2025-02-04 15:43:50 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:43:50 - INFO - 
+Scanning directory: C:\WINDOWS\Temp
+2025-02-04 15:43:50 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:43:50 - INFO - 
+Cleanup process completed
+2025-02-04 15:43:50 - INFO - ==================================================
+2025-02-04 15:45:28 - INFO - ==================================================
+2025-02-04 15:45:28 - INFO - STARTING ACTUAL CLEANUP
+2025-02-04 15:45:28 - INFO - ==================================================
+2025-02-04 15:45:28 - INFO - Starting cleanup process
+2025-02-04 15:45:28 - INFO - Current settings:
+2025-02-04 15:45:28 - INFO - - Minimum file age: 1 days
+2025-02-04 15:45:28 - INFO - - Minimum file size: 0.1 MB
+2025-02-04 15:45:28 - INFO - - Target extensions: .tmp, .temp, ~*
+2025-02-04 15:45:28 - INFO - 
+Scanning directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 15:45:28 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\18d58858-0630-4de6-8aaa-3b57208c5c64.tmp
+2025-02-04 15:45:28 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\217cc23a-43c7-4687-87e3-8929a9de898b.tmp
+2025-02-04 15:45:28 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\43b826e3-9e39-4ee1-ad8d-29791eae8e2b.tmp
+2025-02-04 15:45:28 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\5ff3bf5d-1d61-4fcc-8a66-be122000bd1c.tmp
+2025-02-04 15:45:31 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:45:31 - INFO - 
+Scanning directory: C:\WINDOWS\Temp
+2025-02-04 15:45:31 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:45:31 - INFO - 
+Cleanup process completed
+2025-02-04 15:45:31 - INFO - ==================================================
+2025-02-04 15:46:05 - INFO - ==================================================
+2025-02-04 15:46:05 - INFO - STARTING ACTUAL CLEANUP
+2025-02-04 15:46:05 - INFO - ==================================================
+2025-02-04 15:46:05 - INFO - Starting cleanup process
+2025-02-04 15:46:05 - INFO - Current settings:
+2025-02-04 15:46:05 - INFO - - Minimum file age: 1 days
+2025-02-04 15:46:05 - INFO - - Minimum file size: 0.1 MB
+2025-02-04 15:46:05 - INFO - - Target extensions: .tmp, .temp, ~*
+2025-02-04 15:46:05 - INFO - 
+Scanning directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 15:46:05 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\18d58858-0630-4de6-8aaa-3b57208c5c64.tmp
+2025-02-04 15:46:05 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\217cc23a-43c7-4687-87e3-8929a9de898b.tmp
+2025-02-04 15:46:05 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\43b826e3-9e39-4ee1-ad8d-29791eae8e2b.tmp
+2025-02-04 15:46:05 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\92470ecc-1809-44d8-82ff-a1a2b00cab8c.tmp
+2025-02-04 15:46:07 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:46:07 - INFO - 
+Scanning directory: C:\WINDOWS\Temp
+2025-02-04 15:46:07 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 15:46:07 - INFO - 
+Cleanup process completed
+2025-02-04 15:46:07 - INFO - ==================================================
+2025-02-04 15:48:53 - INFO - ==================================================
+2025-02-04 15:48:53 - INFO - STARTING ACTUAL CLEANUP
+2025-02-04 15:48:53 - INFO - ==================================================
+2025-02-04 15:48:53 - INFO - Starting cleanup process
+2025-02-04 15:48:53 - INFO - Current settings:
+2025-02-04 15:48:53 - INFO - - Minimum file age: 0 days
+2025-02-04 15:48:53 - INFO - - Minimum file size: 0.01 MB
+2025-02-04 15:48:53 - INFO - - Target extensions: .tmp, .temp, .cache, ~*, .log, .chk, .old, .bak
+2025-02-04 15:48:53 - INFO - 
+Scanning directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 15:48:53 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\18d58858-0630-4de6-8aaa-3b57208c5c64.tmp
+2025-02-04 15:48:53 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\217cc23a-43c7-4687-87e3-8929a9de898b.tmp
+2025-02-04 15:48:53 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\43b826e3-9e39-4ee1-ad8d-29791eae8e2b.tmp
+2025-02-04 15:48:53 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\92470ecc-1809-44d8-82ff-a1a2b00cab8c.tmp
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\jusched.log (0.04 MB)
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\KRITIKA-THAKKAR-20250201-1243.log (0.28 MB)
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104656.log (0.02 MB)
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721.log (0.08 MB)
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721_000_core_AllUsers.log (0.08 MB)
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721_001_exe_AllUsers.log (0.11 MB)
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721_002_dev_AllUsers.log (0.58 MB)
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721_003_lib_AllUsers.log (1.25 MB)
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721_004_test_AllUsers.log (3.51 MB)
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721_005_doc_AllUsers.log (1.21 MB)
+2025-02-04 15:48:53 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721_006_tcltk_AllUsers.log (2.42 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721_007_launcher_AllUsers.log (0.20 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721_008_pip_AllUsers.log (0.11 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104721_009_path_AllUsers.log (0.09 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Python 3.13.1 (64-bit)_20250204104736.log (0.02 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\wct72A8.tmp (0.09 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\wct80AC.tmp (0.09 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\wctB15A.tmp (0.08 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\wctB9EC.tmp (0.09 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\wctC0B7.tmp (0.09 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\wctE1E9.tmp (0.09 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\wctEBCE.tmp (0.09 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\wctF0C4.tmp (0.08 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\8ac076c2-512c-421e-b4d1-45582a5f0818.tmp (0.09 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\020158af-9f3e-4491-8c0d-9d66f13d7b36.tmp (0.03 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\0f1021f5-1d6a-4553-99e5-f26f12c3878d.tmp (0.03 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\127bcea1-aadb-4e6e-918c-804174ae50c4.tmp (0.03 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\26b9d354-26cb-4f61-966d-7934f69d3d34.tmp (0.03 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\2ad7a7d1-6c58-44b6-b73a-e8affa159ad4.tmp (0.03 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\2cdc92cf-2ed3-4e1e-8db8-2a049b491bda.tmp (0.03 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\30d14625-6410-43b4-b5f8-d5193b7bc006.tmp (0.03 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\33a53e58-5e8c-4fa8-ae52-2a92df8cfc73.tmp (0.03 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\39d59dcd-26d1-47b8-a446-c80856a494b0.tmp (0.03 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\3db9ea00-520d-465d-b854-07da02fa0287.tmp (0.03 MB)
+2025-02-04 15:48:54 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\4ebb5c7e-23ef-4fc9-8fab-91c6f15567fa.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\4f5e1dc8-b7ee-4352-8d69-0b4c176a29d7.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\59224162-e096-48bf-aea4-d9f97b50ec5f.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\643b3777-544d-4344-a213-a8977887b65d.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\6862fe84-6593-4f1c-9e4b-0038071b782d.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\6b90bd03-617c-4e9e-b6c3-0c9410958d8f.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\6c393090-79f2-4594-b15e-206490be92e9.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\734be956-565d-4e6b-9c30-1b47ec51a97d.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\7779edbc-608a-4fcd-a3d0-1501db23d8bc.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\77bce757-efe8-4920-bda8-fac7a8547741.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\77e7f48a-538e-49c1-96d3-f12474fb7a9b.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\8d161f1e-dc5a-4919-b862-f91325267bb7.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\984ff4ea-2d57-4288-87d2-d01ca00a2c22.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\9b27fc71-436d-40ef-abbb-9bc0d650d1aa.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\bf763cd5-b4aa-4d63-9c52-4484d1385476.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\c2bad7fe-2b44-44ea-8554-3d8cdb31d368.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\ccbfcddc-91ab-4340-8b01-12ad8a252cf1.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\d3ffe482-ed70-498b-9e66-953887f7d943.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\da50344a-fae1-4823-a2c8-d8fccf0a3f59.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\ddafd857-be5e-408c-a83f-17a185796ae7.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\e3ea4be0-b2ec-4342-9d15-ffda9db51548.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\e4b0cd54-ae4e-4937-8e61-1069141ec5fe.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\f02e8c35-8fd2-4ac3-99c7-d59dee001b15.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\f4ab0520-2f32-45cd-b9a3-4834ed8dd706.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsMostVisited\fb0463f9-e8f6-481b-b843-65f40dd397eb.tmp (0.03 MB)
+2025-02-04 15:48:55 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\029d5b9e-6e97-4114-b17a-5b99f773439f.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\0f45fd9a-6f34-425b-9cbe-0914f5c0e4e0.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\117fec13-c23f-4840-a67a-a9dac56b797f.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\179432da-1402-4e00-bbe4-7b8e8d70616e.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\2e02a447-3302-49ab-a65e-700725fe6c3a.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\372b7ee9-0c26-4bf9-ad6a-4fb8efd9fc86.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\39c62cae-ffe3-4292-9426-f072947e1cff.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\509f90d8-30b3-4409-ad26-a4c45f4485b9.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\516fb672-a739-466e-86fd-8a7fa57d5469.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\55592d77-381f-4c35-8a86-ca5a752d248c.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\5f9cc336-bfa1-449a-81d6-de53f23bfbea.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\7aa471b4-9992-4b28-a6df-fc255928e909.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\7c2126d1-7a77-43a8-a614-990093713f2a.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\85f9302f-5d1a-4f2e-b010-e771e4315c1d.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\93aa70d5-092c-4a53-878d-4dc8ac9814ee.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\a320aa8c-cd66-4a18-bf1a-36ac48d20577.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\a57033d9-0882-4879-b186-ec02697eda6e.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\a5824aaf-052b-4be2-8adb-7d28cc71bc83.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\a7dd7125-f5d3-4721-92be-38f074cf0db3.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\aa6e1eba-3178-49cf-8cf7-f69174a017fe.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\ba2f07c3-4829-4153-8f45-fc4c74bac2a1.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\c1042c96-861d-443c-8b75-904374d27f83.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\d0f38179-68c4-40c9-81eb-6c1b9f29f20c.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\d36d9943-6015-49cd-9f1c-484b65b802f8.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\d4328456-49c0-4b48-9ca6-f005253f1d8f.tmp (0.03 MB)
+2025-02-04 15:48:56 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\daa0b2e8-18e9-40ce-b1f8-018c37830ee5.tmp (0.03 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\e3669478-3b98-447b-bac6-1f4475d5af08.tmp (0.03 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\JumpListIconsRecentClosed\f398b95c-7b7d-4723-bc7c-0bc6cd57da9f.tmp (0.03 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\Network\65162071-2a94-438c-86fd-976ca4093369.tmp (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\Session Storage\000004.log (0.04 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\shared_proto_db\000065.log (0.38 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\Site Characteristics Database\000003.log (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\Service Worker\Database\000003.log (0.17 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\Local Storage\leveldb\000010.log (0.04 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_49889.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_50254.indexeddb.leveldb\000004.log (0.02 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_50435.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_51257.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_52722.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_52751.indexeddb.leveldb\000011.log (0.03 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_52824.indexeddb.leveldb\000022.log (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_53150.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_53959.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_54546.indexeddb.leveldb\000007.log (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_54952.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:57 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_55263.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_56442.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_57018.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_57083.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_57688.indexeddb.leveldb\000018.log (0.40 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_58693.indexeddb.leveldb\000007.log (0.04 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_58758.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_61415.indexeddb.leveldb\000015.log (0.02 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_61883.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_62403.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_62461.indexeddb.leveldb\000004.log (1.38 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_62982.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.f480dd55\flutter_tools_chrome_device.dd08f673\Default\IndexedDB\http_localhost_65487.indexeddb.leveldb\000007.log (0.01 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\8ac076c2-512c-421e-b4d1-45582a5f0818.tmp (0.09 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\020158af-9f3e-4491-8c0d-9d66f13d7b36.tmp (0.03 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\0f1021f5-1d6a-4553-99e5-f26f12c3878d.tmp (0.03 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\127bcea1-aadb-4e6e-918c-804174ae50c4.tmp (0.03 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\26b9d354-26cb-4f61-966d-7934f69d3d34.tmp (0.03 MB)
+2025-02-04 15:48:58 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\2ad7a7d1-6c58-44b6-b73a-e8affa159ad4.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\2cdc92cf-2ed3-4e1e-8db8-2a049b491bda.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\30d14625-6410-43b4-b5f8-d5193b7bc006.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\33a53e58-5e8c-4fa8-ae52-2a92df8cfc73.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\39d59dcd-26d1-47b8-a446-c80856a494b0.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\3db9ea00-520d-465d-b854-07da02fa0287.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\4ebb5c7e-23ef-4fc9-8fab-91c6f15567fa.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\4f5e1dc8-b7ee-4352-8d69-0b4c176a29d7.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\59224162-e096-48bf-aea4-d9f97b50ec5f.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\643b3777-544d-4344-a213-a8977887b65d.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\6862fe84-6593-4f1c-9e4b-0038071b782d.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\6b90bd03-617c-4e9e-b6c3-0c9410958d8f.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\6c393090-79f2-4594-b15e-206490be92e9.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\734be956-565d-4e6b-9c30-1b47ec51a97d.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\7779edbc-608a-4fcd-a3d0-1501db23d8bc.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\77bce757-efe8-4920-bda8-fac7a8547741.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\77e7f48a-538e-49c1-96d3-f12474fb7a9b.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\8d161f1e-dc5a-4919-b862-f91325267bb7.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\984ff4ea-2d57-4288-87d2-d01ca00a2c22.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\9b27fc71-436d-40ef-abbb-9bc0d650d1aa.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\bf763cd5-b4aa-4d63-9c52-4484d1385476.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\c2bad7fe-2b44-44ea-8554-3d8cdb31d368.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\ccbfcddc-91ab-4340-8b01-12ad8a252cf1.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\d3ffe482-ed70-498b-9e66-953887f7d943.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\da50344a-fae1-4823-a2c8-d8fccf0a3f59.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\ddafd857-be5e-408c-a83f-17a185796ae7.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\e3ea4be0-b2ec-4342-9d15-ffda9db51548.tmp (0.03 MB)
+2025-02-04 15:48:59 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\e4b0cd54-ae4e-4937-8e61-1069141ec5fe.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\f02e8c35-8fd2-4ac3-99c7-d59dee001b15.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\f4ab0520-2f32-45cd-b9a3-4834ed8dd706.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsMostVisited\fb0463f9-e8f6-481b-b843-65f40dd397eb.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\029d5b9e-6e97-4114-b17a-5b99f773439f.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\0f45fd9a-6f34-425b-9cbe-0914f5c0e4e0.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\117fec13-c23f-4840-a67a-a9dac56b797f.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\179432da-1402-4e00-bbe4-7b8e8d70616e.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\2e02a447-3302-49ab-a65e-700725fe6c3a.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\372b7ee9-0c26-4bf9-ad6a-4fb8efd9fc86.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\39c62cae-ffe3-4292-9426-f072947e1cff.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\509f90d8-30b3-4409-ad26-a4c45f4485b9.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\516fb672-a739-466e-86fd-8a7fa57d5469.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\55592d77-381f-4c35-8a86-ca5a752d248c.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\5f9cc336-bfa1-449a-81d6-de53f23bfbea.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\7aa471b4-9992-4b28-a6df-fc255928e909.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\7c2126d1-7a77-43a8-a614-990093713f2a.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\85f9302f-5d1a-4f2e-b010-e771e4315c1d.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\93aa70d5-092c-4a53-878d-4dc8ac9814ee.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\a320aa8c-cd66-4a18-bf1a-36ac48d20577.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\a57033d9-0882-4879-b186-ec02697eda6e.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\a5824aaf-052b-4be2-8adb-7d28cc71bc83.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\a7dd7125-f5d3-4721-92be-38f074cf0db3.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\aa6e1eba-3178-49cf-8cf7-f69174a017fe.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\ba2f07c3-4829-4153-8f45-fc4c74bac2a1.tmp (0.03 MB)
+2025-02-04 15:49:00 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\c1042c96-861d-443c-8b75-904374d27f83.tmp (0.03 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\d0f38179-68c4-40c9-81eb-6c1b9f29f20c.tmp (0.03 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\d36d9943-6015-49cd-9f1c-484b65b802f8.tmp (0.03 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\d4328456-49c0-4b48-9ca6-f005253f1d8f.tmp (0.03 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\daa0b2e8-18e9-40ce-b1f8-018c37830ee5.tmp (0.03 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\e3669478-3b98-447b-bac6-1f4475d5af08.tmp (0.03 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\JumpListIconsRecentClosed\f398b95c-7b7d-4723-bc7c-0bc6cd57da9f.tmp (0.03 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\Network\65162071-2a94-438c-86fd-976ca4093369.tmp (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\Session Storage\000004.log (0.04 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\shared_proto_db\000065.log (0.18 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\Site Characteristics Database\000003.log (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\Service Worker\Database\000003.log (0.17 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_49889.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_50254.indexeddb.leveldb\000004.log (0.02 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_50435.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_51257.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_52722.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_52751.indexeddb.leveldb\000011.log (0.03 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_52824.indexeddb.leveldb\000022.log (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_53150.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_53959.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_54546.indexeddb.leveldb\000007.log (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_54952.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:01 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_55263.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_56442.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_57018.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_57083.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_57688.indexeddb.leveldb\000018.log (0.40 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_58693.indexeddb.leveldb\000007.log (0.04 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_58758.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_61415.indexeddb.leveldb\000015.log (0.02 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_61883.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_62403.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_62461.indexeddb.leveldb\000004.log (1.38 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_62982.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.caefadfe\flutter_tools_chrome_device.f8426d36\Default\IndexedDB\http_localhost_65487.indexeddb.leveldb\000007.log (0.01 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\020158af-9f3e-4491-8c0d-9d66f13d7b36.tmp (0.03 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\0f1021f5-1d6a-4553-99e5-f26f12c3878d.tmp (0.03 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\127bcea1-aadb-4e6e-918c-804174ae50c4.tmp (0.03 MB)
+2025-02-04 15:49:02 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\26b9d354-26cb-4f61-966d-7934f69d3d34.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\2ad7a7d1-6c58-44b6-b73a-e8affa159ad4.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\2cdc92cf-2ed3-4e1e-8db8-2a049b491bda.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\30d14625-6410-43b4-b5f8-d5193b7bc006.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\33a53e58-5e8c-4fa8-ae52-2a92df8cfc73.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\39d59dcd-26d1-47b8-a446-c80856a494b0.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\3db9ea00-520d-465d-b854-07da02fa0287.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\4ebb5c7e-23ef-4fc9-8fab-91c6f15567fa.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\4f5e1dc8-b7ee-4352-8d69-0b4c176a29d7.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\59224162-e096-48bf-aea4-d9f97b50ec5f.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\643b3777-544d-4344-a213-a8977887b65d.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\6862fe84-6593-4f1c-9e4b-0038071b782d.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\6b90bd03-617c-4e9e-b6c3-0c9410958d8f.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\6c393090-79f2-4594-b15e-206490be92e9.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\734be956-565d-4e6b-9c30-1b47ec51a97d.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\7779edbc-608a-4fcd-a3d0-1501db23d8bc.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\77bce757-efe8-4920-bda8-fac7a8547741.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\77e7f48a-538e-49c1-96d3-f12474fb7a9b.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\8d161f1e-dc5a-4919-b862-f91325267bb7.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\984ff4ea-2d57-4288-87d2-d01ca00a2c22.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\9b27fc71-436d-40ef-abbb-9bc0d650d1aa.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\bf763cd5-b4aa-4d63-9c52-4484d1385476.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\c2bad7fe-2b44-44ea-8554-3d8cdb31d368.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\ccbfcddc-91ab-4340-8b01-12ad8a252cf1.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\d3ffe482-ed70-498b-9e66-953887f7d943.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\da50344a-fae1-4823-a2c8-d8fccf0a3f59.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\ddafd857-be5e-408c-a83f-17a185796ae7.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\e3ea4be0-b2ec-4342-9d15-ffda9db51548.tmp (0.03 MB)
+2025-02-04 15:49:03 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\e4b0cd54-ae4e-4937-8e61-1069141ec5fe.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\f02e8c35-8fd2-4ac3-99c7-d59dee001b15.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\f4ab0520-2f32-45cd-b9a3-4834ed8dd706.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsMostVisited\fb0463f9-e8f6-481b-b843-65f40dd397eb.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\029d5b9e-6e97-4114-b17a-5b99f773439f.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\0f45fd9a-6f34-425b-9cbe-0914f5c0e4e0.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\117fec13-c23f-4840-a67a-a9dac56b797f.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\179432da-1402-4e00-bbe4-7b8e8d70616e.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\2e02a447-3302-49ab-a65e-700725fe6c3a.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\372b7ee9-0c26-4bf9-ad6a-4fb8efd9fc86.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\39c62cae-ffe3-4292-9426-f072947e1cff.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\509f90d8-30b3-4409-ad26-a4c45f4485b9.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\516fb672-a739-466e-86fd-8a7fa57d5469.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\55592d77-381f-4c35-8a86-ca5a752d248c.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\5f9cc336-bfa1-449a-81d6-de53f23bfbea.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\7aa471b4-9992-4b28-a6df-fc255928e909.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\7c2126d1-7a77-43a8-a614-990093713f2a.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\85f9302f-5d1a-4f2e-b010-e771e4315c1d.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\93aa70d5-092c-4a53-878d-4dc8ac9814ee.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\a320aa8c-cd66-4a18-bf1a-36ac48d20577.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\a57033d9-0882-4879-b186-ec02697eda6e.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\a5824aaf-052b-4be2-8adb-7d28cc71bc83.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\a7dd7125-f5d3-4721-92be-38f074cf0db3.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\aa6e1eba-3178-49cf-8cf7-f69174a017fe.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\ba2f07c3-4829-4153-8f45-fc4c74bac2a1.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\c1042c96-861d-443c-8b75-904374d27f83.tmp (0.03 MB)
+2025-02-04 15:49:04 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\d0f38179-68c4-40c9-81eb-6c1b9f29f20c.tmp (0.03 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\d36d9943-6015-49cd-9f1c-484b65b802f8.tmp (0.03 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\d4328456-49c0-4b48-9ca6-f005253f1d8f.tmp (0.03 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\daa0b2e8-18e9-40ce-b1f8-018c37830ee5.tmp (0.03 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\e3669478-3b98-447b-bac6-1f4475d5af08.tmp (0.03 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\JumpListIconsRecentClosed\f398b95c-7b7d-4723-bc7c-0bc6cd57da9f.tmp (0.03 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\Network\65162071-2a94-438c-86fd-976ca4093369.tmp (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\shared_proto_db\000068.log (0.26 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\Site Characteristics Database\000003.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\Service Worker\Database\000003.log (0.18 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\Local Storage\leveldb\000013.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_49889.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_50254.indexeddb.leveldb\000004.log (0.02 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_50435.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_51257.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_52722.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_52751.indexeddb.leveldb\000011.log (0.03 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_52824.indexeddb.leveldb\000022.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_53150.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_53959.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_54546.indexeddb.leveldb\000007.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_54952.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_55263.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_56442.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:05 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_57018.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_57083.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_57688.indexeddb.leveldb\000018.log (0.40 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_58693.indexeddb.leveldb\000007.log (0.04 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_58758.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_61415.indexeddb.leveldb\000015.log (0.02 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_61883.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_62403.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_62461.indexeddb.leveldb\000004.log (1.38 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_62982.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.9c12d36d\flutter_tools_chrome_device.619b8d2a\Default\IndexedDB\http_localhost_65487.indexeddb.leveldb\000007.log (0.01 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\020158af-9f3e-4491-8c0d-9d66f13d7b36.tmp (0.03 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\0f1021f5-1d6a-4553-99e5-f26f12c3878d.tmp (0.03 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\127bcea1-aadb-4e6e-918c-804174ae50c4.tmp (0.03 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\26b9d354-26cb-4f61-966d-7934f69d3d34.tmp (0.03 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\2ad7a7d1-6c58-44b6-b73a-e8affa159ad4.tmp (0.03 MB)
+2025-02-04 15:49:06 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\2cdc92cf-2ed3-4e1e-8db8-2a049b491bda.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\30d14625-6410-43b4-b5f8-d5193b7bc006.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\33a53e58-5e8c-4fa8-ae52-2a92df8cfc73.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\39d59dcd-26d1-47b8-a446-c80856a494b0.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\3db9ea00-520d-465d-b854-07da02fa0287.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\4ebb5c7e-23ef-4fc9-8fab-91c6f15567fa.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\4f5e1dc8-b7ee-4352-8d69-0b4c176a29d7.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\59224162-e096-48bf-aea4-d9f97b50ec5f.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\643b3777-544d-4344-a213-a8977887b65d.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\6862fe84-6593-4f1c-9e4b-0038071b782d.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\6b90bd03-617c-4e9e-b6c3-0c9410958d8f.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\6c393090-79f2-4594-b15e-206490be92e9.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\734be956-565d-4e6b-9c30-1b47ec51a97d.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\7779edbc-608a-4fcd-a3d0-1501db23d8bc.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\77bce757-efe8-4920-bda8-fac7a8547741.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\77e7f48a-538e-49c1-96d3-f12474fb7a9b.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\8d161f1e-dc5a-4919-b862-f91325267bb7.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\984ff4ea-2d57-4288-87d2-d01ca00a2c22.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\9b27fc71-436d-40ef-abbb-9bc0d650d1aa.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\bf763cd5-b4aa-4d63-9c52-4484d1385476.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\c2bad7fe-2b44-44ea-8554-3d8cdb31d368.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\ccbfcddc-91ab-4340-8b01-12ad8a252cf1.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\d3ffe482-ed70-498b-9e66-953887f7d943.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\da50344a-fae1-4823-a2c8-d8fccf0a3f59.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\ddafd857-be5e-408c-a83f-17a185796ae7.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\e3ea4be0-b2ec-4342-9d15-ffda9db51548.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\e4b0cd54-ae4e-4937-8e61-1069141ec5fe.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\f02e8c35-8fd2-4ac3-99c7-d59dee001b15.tmp (0.03 MB)
+2025-02-04 15:49:07 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\f4ab0520-2f32-45cd-b9a3-4834ed8dd706.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsMostVisited\fb0463f9-e8f6-481b-b843-65f40dd397eb.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\029d5b9e-6e97-4114-b17a-5b99f773439f.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\0f45fd9a-6f34-425b-9cbe-0914f5c0e4e0.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\117fec13-c23f-4840-a67a-a9dac56b797f.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\179432da-1402-4e00-bbe4-7b8e8d70616e.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\2e02a447-3302-49ab-a65e-700725fe6c3a.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\372b7ee9-0c26-4bf9-ad6a-4fb8efd9fc86.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\39c62cae-ffe3-4292-9426-f072947e1cff.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\509f90d8-30b3-4409-ad26-a4c45f4485b9.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\516fb672-a739-466e-86fd-8a7fa57d5469.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\55592d77-381f-4c35-8a86-ca5a752d248c.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\5f9cc336-bfa1-449a-81d6-de53f23bfbea.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\7aa471b4-9992-4b28-a6df-fc255928e909.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\7c2126d1-7a77-43a8-a614-990093713f2a.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\85f9302f-5d1a-4f2e-b010-e771e4315c1d.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\93aa70d5-092c-4a53-878d-4dc8ac9814ee.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\a320aa8c-cd66-4a18-bf1a-36ac48d20577.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\a57033d9-0882-4879-b186-ec02697eda6e.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\a5824aaf-052b-4be2-8adb-7d28cc71bc83.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\a7dd7125-f5d3-4721-92be-38f074cf0db3.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\aa6e1eba-3178-49cf-8cf7-f69174a017fe.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\ba2f07c3-4829-4153-8f45-fc4c74bac2a1.tmp (0.03 MB)
+2025-02-04 15:49:08 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\c1042c96-861d-443c-8b75-904374d27f83.tmp (0.03 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\d0f38179-68c4-40c9-81eb-6c1b9f29f20c.tmp (0.03 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\d36d9943-6015-49cd-9f1c-484b65b802f8.tmp (0.03 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\d4328456-49c0-4b48-9ca6-f005253f1d8f.tmp (0.03 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\daa0b2e8-18e9-40ce-b1f8-018c37830ee5.tmp (0.03 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\e3669478-3b98-447b-bac6-1f4475d5af08.tmp (0.03 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\JumpListIconsRecentClosed\f398b95c-7b7d-4723-bc7c-0bc6cd57da9f.tmp (0.03 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\Network\65162071-2a94-438c-86fd-976ca4093369.tmp (0.01 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\Session Storage\000004.log (0.04 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\shared_proto_db\000065.log (0.28 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\Site Characteristics Database\000003.log (0.01 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\Service Worker\Database\000003.log (0.17 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\Local Storage\leveldb\000010.log (0.04 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_49889.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_50254.indexeddb.leveldb\000004.log (0.02 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_50435.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_51257.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_52722.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_52751.indexeddb.leveldb\000011.log (0.03 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_52824.indexeddb.leveldb\000022.log (0.01 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_53150.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_53959.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_54546.indexeddb.leveldb\000007.log (0.01 MB)
+2025-02-04 15:49:09 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_54952.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_55263.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_56442.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_57018.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_57083.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_57688.indexeddb.leveldb\000018.log (0.40 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_58693.indexeddb.leveldb\000007.log (0.04 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_58758.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_61415.indexeddb.leveldb\000015.log (0.02 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_61883.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_62403.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_62461.indexeddb.leveldb\000004.log (1.38 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_62982.indexeddb.leveldb\000004.log (0.01 MB)
+2025-02-04 15:49:10 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\flutter_tools.6afd1ef1\flutter_tools_chrome_device.62687744\Default\IndexedDB\http_localhost_65487.indexeddb.leveldb\000007.log (0.01 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Diagnostics\WINWORD\Primary1738230826556282200_03582086-4F5A-446B-A9FE-9346A7E20BB2.log (1.60 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Diagnostics\WINWORD\Primary1738230859402163900_A82E2E1D-FDBF-46F4-B96E-8E299DA80E26.log (4.48 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Diagnostics\WINWORD\Primary1738231324700915600_DB688C9A-8676-4B09-BFB4-3383F5FB70C6.log (1.19 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Diagnostics\WINWORD\Primary1738231334188745600_A2857FD6-DB07-4F23-80B5-F6E7D00842F8.log (1.13 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Diagnostics\WINWORD\Primary1738231351434492900_546DD539-FDE1-4427-9015-B790BE00CB38.log (1.20 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Diagnostics\WINWORD\Primary1738231380015362600_5B51B832-CD30-48D8-B9E8-E003A43A622C.log (1.15 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Diagnostics\WINWORD\Primary1738231717151693500_E3BF66E1-9B56-4995-B904-BF5469F9EB69.log (4.58 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\Users\kruti\AppData\Local\Temp\Diagnostics\WINWORD\Primary1738300556391142600_F4AA3045-E8C5-44DF-8121-6709158A7347.log (1.23 MB)
+2025-02-04 15:49:11 - INFO - Cleaned 403 files (44.62 MB)
+2025-02-04 15:49:11 - INFO - 
+Scanning directory: C:\WINDOWS\Temp
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0947.log (0.64 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952.log (0.50 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952a.log (0.50 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0952b.log (0.15 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-0958.log (0.93 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1003.log (0.13 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1008.log (0.17 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1018.log (0.22 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1107.log (0.15 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1142.log (0.25 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1520.log (0.24 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1533.log (0.12 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1549.log (0.16 MB)
+2025-02-04 15:49:11 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1600.log (0.49 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-1642.log (0.28 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2059.log (0.12 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2117.log (0.49 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2226.log (0.12 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2230.log (0.12 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250130-2259.log (0.49 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1033.log (0.49 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1039.log (0.50 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1203.log (0.12 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1422.log (0.26 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1512.log (0.12 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1646.log (0.49 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1833.log (0.12 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-1955.log (0.49 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2020.log (0.17 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2212.log (0.12 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2306.log (0.41 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2323.log (0.20 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250131-2330.log (0.14 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0851.log (0.11 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0851a.log (0.12 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-0902.log (0.22 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1039.log (0.49 MB)
+2025-02-04 15:49:12 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1056.log (0.21 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1119.log (0.25 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1130.log (0.20 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250201-1243.log (0.17 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0641.log (0.76 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0646.log (0.14 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0647.log (0.49 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0647a.log (0.44 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0754.log (0.07 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-0957.log (0.13 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250202-1603.log (0.45 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-0911.log (0.09 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1010.log (0.07 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1346.log (0.45 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1419.log (0.09 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1452.log (0.45 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1456.log (0.38 MB)
+2025-02-04 15:49:13 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250203-1457.log (0.12 MB)
+2025-02-04 15:49:14 - ERROR - Error deleting C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0937.log: [WinError 32] The process cannot access the file because it is being used by another process.: ['C:\\WINDOWS\\Temp\\KR2150~1.LOG']
+2025-02-04 15:49:14 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0942.log (0.46 MB)
+2025-02-04 15:49:14 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0943.log (0.45 MB)
+2025-02-04 15:49:14 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-0943a.log (0.45 MB)
+2025-02-04 15:49:14 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1019.log (0.23 MB)
+2025-02-04 15:49:14 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1101.log (0.45 MB)
+2025-02-04 15:49:14 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1109.log (0.11 MB)
+2025-02-04 15:49:14 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1126.log (0.24 MB)
+2025-02-04 15:49:15 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1425.log (0.19 MB)
+2025-02-04 15:49:15 - INFO - Cleaned: C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1501.log (0.30 MB)
+2025-02-04 15:49:15 - INFO - Cleaned: C:\WINDOWS\Temp\MpSigStub.log (0.06 MB)
+2025-02-04 15:49:15 - INFO - Cleaned: C:\WINDOWS\Temp\wct2FA4.tmp (0.09 MB)
+2025-02-04 15:49:15 - INFO - Cleaned: C:\WINDOWS\Temp\wct72F9.tmp (0.08 MB)
+2025-02-04 15:49:15 - INFO - Cleaned: C:\WINDOWS\Temp\wct80DB.tmp (0.09 MB)
+2025-02-04 15:49:15 - INFO - Cleaned: C:\WINDOWS\Temp\wctC0C7.tmp (0.09 MB)
+2025-02-04 15:49:15 - INFO - Cleaned 69 files (19.04 MB)
+2025-02-04 15:49:15 - INFO - 
+Cleanup process completed
+2025-02-04 15:49:15 - INFO - ==================================================
+2025-02-04 16:20:34 - INFO - ==================================================
+2025-02-04 16:20:34 - INFO - STARTING ACTUAL CLEANUP
+2025-02-04 16:20:34 - INFO - ==================================================
+2025-02-04 16:20:34 - INFO - Starting cleanup process
+2025-02-04 16:20:34 - INFO - Current settings:
+2025-02-04 16:20:34 - INFO - - Minimum file age: 0 days
+2025-02-04 16:20:34 - INFO - - Minimum file size: 0.01 MB
+2025-02-04 16:20:34 - INFO - - Target extensions: .tmp, .temp, .cache, ~*, .log, .chk, .old, .bak
+2025-02-04 16:20:34 - INFO - 
+Scanning directory: C:\Users\kruti\AppData\Local\Temp
+2025-02-04 16:20:34 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\2a64f143-a455-4d34-9d5e-8dcf6a10f4e9.tmp
+2025-02-04 16:20:34 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\65025143-a368-427b-8594-f977da51f565.tmp
+2025-02-04 16:20:34 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\76e3f6cf-ed76-4af0-af43-b1ed4f2653ab.tmp
+2025-02-04 16:20:34 - WARNING - File in use: C:\Users\kruti\AppData\Local\Temp\98f5ef65-8323-484c-9aa8-1342dee2ab41.tmp
+2025-02-04 16:20:34 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 16:20:34 - INFO - 
+Scanning directory: C:\WINDOWS\Temp
+2025-02-04 16:20:35 - ERROR - Error deleting C:\WINDOWS\Temp\KRITIKA-THAKKAR-20250204-1609.log: [WinError 32] The process cannot access the file because it is being used by another process.: ['C:\\WINDOWS\\Temp\\KRITIK~2.LOG']
+2025-02-04 16:20:35 - WARNING - File in use: C:\WINDOWS\Temp\102054FC-6325-4AF1-9D93-FD260E7C64DD2d30.1db76f29b57ac38\0D8A2D57-A697-4C1B-84B2-A60DC61DAF3E
+2025-02-04 16:20:35 - WARNING - File in use: C:\WINDOWS\Temp\102054FC-6325-4AF1-9D93-FD260E7C64DD2d30.1db76f29b57ac38\1.421.1683.0_to_1.421.1685.0_mpasdlta.vdm._p
+2025-02-04 16:20:35 - WARNING - File in use: C:\WINDOWS\Temp\102054FC-6325-4AF1-9D93-FD260E7C64DD2d30.1db76f29b57ac38\1.421.1683.0_to_1.421.1685.0_mpavdlta.vdm._p
+2025-02-04 16:20:35 - WARNING - File in use: C:\WINDOWS\Temp\102054FC-6325-4AF1-9D93-FD260E7C64DD2d30.1db76f29b57ac38\mpasdlta.vdm
+2025-02-04 16:20:35 - WARNING - File in use: C:\WINDOWS\Temp\102054FC-6325-4AF1-9D93-FD260E7C64DD2d30.1db76f29b57ac38\mpavdlta.vdm
+2025-02-04 16:20:35 - INFO - Cleaned 0 files (0.00 MB)
+2025-02-04 16:20:35 - INFO - 
+Cleanup process completed
+2025-02-04 16:20:35 - INFO - ==================================================
